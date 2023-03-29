@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP Car Polymorphism Homework\C++ OOP Car Polymorphism Homework\Source.cpp(169,59): warning C4305: 'argument': truncation from 'int' to 'ushort'
+C:\Users\hasan\source\repos\C++ OOP Car Polymorphism Homework\C++ OOP Car Polymorphism Homework\Source.cpp(169,45): warning C4309: 'argument': truncation of constant value
+C:\Users\hasan\source\repos\C++ OOP Car Polymorphism Homework\C++ OOP Car Polymorphism Homework\Source.cpp(179,72): warning C4305: 'argument': truncation from 'int' to 'ushort'
+C:\Users\hasan\source\repos\C++ OOP Car Polymorphism Homework\C++ OOP Car Polymorphism Homework\Source.cpp(179,62): warning C4309: 'argument': truncation of constant value
+  C++ OOP Car Polymorphism Homework.vcxproj -> C:\Users\hasan\source\repos\C++ OOP Car Polymorphism Homework\x64\Debug\C++ OOP Car Polymorphism Homework.exe
